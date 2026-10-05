@@ -104,7 +104,7 @@ void tinhTienDien() {
     printf("Tong tien dien phai tra: %.0f dong\n", tongTien);
 }
 
-// Hàm main chứa Menu chính điều khiển chương trình (Bài 1)
+// Hàm main chứa Menu chính điều khiển chương trình 
 int main() {
     int luaChon;
 
